@@ -1,1 +1,7 @@
 this is demo file......
+git init
+git status
+git add .// git add hello.txt
+git commit -m "first commit"
+git remote add origin (link)
+git push -u origin master
